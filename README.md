@@ -1,6 +1,5 @@
 ## 🔖 Sobre
-Estudando frontend e criando portifolio usando TailwindCSS.
-
+Clone do app Club House
 ---
 
 ## 🚀 Tecnologias utilizadas
