@@ -1,0 +1,22 @@
+*, :root, button {
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: -0.2px;
+}
+main {
+    border-top-left-radius: 2.3rem;
+    border-top-right-radius: 2.3rem;
+}
+main > div p {
+    background-color: #ddd;
+    border-radius: 45%;
+    width: 85px;
+    height: 85px;
+    text-indent: -9999999px;
+    display: block;
+    overflow: hidden;
+    margin-top: 10px;
+}
+main > div {
+    align-items: center;
+    justify-content: center;
+}
